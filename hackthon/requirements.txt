@@ -1,0 +1,10 @@
+editdistance==0.6.2
+Kivy==2.1.0
+lmdb==1.4.0
+matplotlib==3.7.0
+numpy==1.23.0
+opencv_python==4.7.0.72
+path.py==12.5.0
+tensorflow==2.11.0
+tensorflow_intel==2.11.0
+word_beam_search==1.0.1
